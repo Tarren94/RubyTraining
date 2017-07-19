@@ -19,7 +19,7 @@ puts "I said: #{x}."
 #Prints out 'I also said:' then prints the 'y' variable above.
 puts "I also said: '#{y}'."
 
-#Set variable that equal a false bolean when named variable is used.
+#Set variable that equal a false boolean when named variable is used.
 hilarious = false
 
 #Set variable that states a question then aswered using the above variable.
